@@ -5,8 +5,8 @@
 	(uuid "5f8291ae-6b30-4227-b99f-27fcfbfcfd0c")
 	(paper "User" 297.002 212.319)
 	(title_block
-		(title "ALTAIR_SERVO_MODULE_V2")
-		(date "2024-02-26")
+		(title "ALTAIR_SERVO_MODULE_V5")
+		(date "2025-03-01")
 		(rev "2.0.0")
 		(company "-Altair-")
 	)
@@ -6950,15 +6950,15 @@
 		(fields_autoplaced yes)
 		(uuid "1540ac3b-c4c2-4a0a-842c-c5232e78ff5b")
 		(property "Reference" "IC2"
-			(at 70.485 76.835 0)
+			(at 70.485 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "TLP152"
-			(at 70.485 79.375 0)
+		(property "Value" "TLP2304"
+			(at 70.485 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7167,15 +7167,15 @@
 		(fields_autoplaced yes)
 		(uuid "16ec20e4-cb79-4291-9223-ef3178f9d7a6")
 		(property "Reference" "IC3"
-			(at 70.485 93.345 0)
+			(at 70.485 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "TLP152"
-			(at 70.485 95.885 0)
+		(property "Value" "TLP2304"
+			(at 70.485 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8073,7 +8073,7 @@
 				)
 			)
 		)
-		(property "Value" "TLP152"
+		(property "Value" "TLP2304"
 			(at 70.485 113.03 0)
 			(effects
 				(font
@@ -8563,7 +8563,7 @@
 				)
 			)
 		)
-		(property "Value" "TLP152"
+		(property "Value" "TLP2304"
 			(at 70.485 163.83 0)
 			(effects
 				(font
@@ -11553,15 +11553,15 @@
 		(fields_autoplaced yes)
 		(uuid "ab10d1ad-b017-4ba7-94e1-e4d5ef9285e6")
 		(property "Reference" "IC6"
-			(at 70.485 144.145 0)
+			(at 70.485 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "TLP152"
-			(at 70.485 146.685 0)
+		(property "Value" "TLP2304"
+			(at 70.485 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13483,7 +13483,7 @@
 				)
 			)
 		)
-		(property "Value" "TLP152"
+		(property "Value" "TLP2304"
 			(at 69.85 62.23 0)
 			(effects
 				(font
@@ -14725,15 +14725,15 @@
 		(fields_autoplaced yes)
 		(uuid "e6224bbc-a18a-4a5c-bd56-f609b4d315d6")
 		(property "Reference" "IC8"
-			(at 70.485 178.435 0)
+			(at 70.485 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "TLP152"
-			(at 70.485 180.975 0)
+		(property "Value" "TLP2304"
+			(at 70.485 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14949,7 +14949,7 @@
 				)
 			)
 		)
-		(property "Value" "TLP152"
+		(property "Value" "TLP2304"
 			(at 70.485 129.54 0)
 			(effects
 				(font
